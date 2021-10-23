@@ -1,0 +1,2534 @@
+('C:\\Users\\Daniel '
+ 'Amorim\\PycharmProjects\\phonenumber\\build\\codigo\\PYZ-00.pyz',
+ [('inspect', 'C:\\Python36\\lib\\inspect.py', 'PYMODULE'),
+  ('importlib', 'C:\\Python36\\lib\\importlib\\__init__.py', 'PYMODULE'),
+  ('importlib.abc', 'C:\\Python36\\lib\\importlib\\abc.py', 'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse', 'C:\\Python36\\lib\\argparse.py', 'PYMODULE'),
+  ('gettext', 'C:\\Python36\\lib\\gettext.py', 'PYMODULE'),
+  ('struct', 'C:\\Python36\\lib\\struct.py', 'PYMODULE'),
+  ('textwrap', 'C:\\Python36\\lib\\textwrap.py', 'PYMODULE'),
+  ('copy', 'C:\\Python36\\lib\\copy.py', 'PYMODULE'),
+  ('token', 'C:\\Python36\\lib\\token.py', 'PYMODULE'),
+  ('tokenize', 'C:\\Python36\\lib\\tokenize.py', 'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis', 'C:\\Python36\\lib\\dis.py', 'PYMODULE'),
+  ('opcode', 'C:\\Python36\\lib\\opcode.py', 'PYMODULE'),
+  ('ast', 'C:\\Python36\\lib\\ast.py', 'PYMODULE'),
+  ('os', 'C:\\Python36\\lib\\os.py', 'PYMODULE'),
+  ('subprocess', 'C:\\Python36\\lib\\subprocess.py', 'PYMODULE'),
+  ('dummy_threading', 'C:\\Python36\\lib\\dummy_threading.py', 'PYMODULE'),
+  ('_dummy_thread', 'C:\\Python36\\lib\\_dummy_thread.py', 'PYMODULE'),
+  ('selectors', 'C:\\Python36\\lib\\selectors.py', 'PYMODULE'),
+  ('threading', 'C:\\Python36\\lib\\threading.py', 'PYMODULE'),
+  ('_threading_local', 'C:\\Python36\\lib\\_threading_local.py', 'PYMODULE'),
+  ('contextlib', 'C:\\Python36\\lib\\contextlib.py', 'PYMODULE'),
+  ('signal', 'C:\\Python36\\lib\\signal.py', 'PYMODULE'),
+  ('_strptime', 'C:\\Python36\\lib\\_strptime.py', 'PYMODULE'),
+  ('datetime', 'C:\\Python36\\lib\\datetime.py', 'PYMODULE'),
+  ('calendar', 'C:\\Python36\\lib\\calendar.py', 'PYMODULE'),
+  ('ntpath', 'C:\\Python36\\lib\\ntpath.py', 'PYMODULE'),
+  ('string', 'C:\\Python36\\lib\\string.py', 'PYMODULE'),
+  ('genericpath', 'C:\\Python36\\lib\\genericpath.py', 'PYMODULE'),
+  ('posixpath', 'C:\\Python36\\lib\\posixpath.py', 'PYMODULE'),
+  ('stat', 'C:\\Python36\\lib\\stat.py', 'PYMODULE'),
+  ('pkgutil', 'C:\\Python36\\lib\\pkgutil.py', 'PYMODULE'),
+  ('importlib.util', 'C:\\Python36\\lib\\importlib\\util.py', 'PYMODULE'),
+  ('stringprep', 'C:\\Python36\\lib\\stringprep.py', 'PYMODULE'),
+  ('bz2', 'C:\\Python36\\lib\\bz2.py', 'PYMODULE'),
+  ('_compression', 'C:\\Python36\\lib\\_compression.py', 'PYMODULE'),
+  ('base64', 'C:\\Python36\\lib\\base64.py', 'PYMODULE'),
+  ('getopt', 'C:\\Python36\\lib\\getopt.py', 'PYMODULE'),
+  ('quopri', 'C:\\Python36\\lib\\quopri.py', 'PYMODULE'),
+  ('tracemalloc', 'C:\\Python36\\lib\\tracemalloc.py', 'PYMODULE'),
+  ('pickle', 'C:\\Python36\\lib\\pickle.py', 'PYMODULE'),
+  ('pprint', 'C:\\Python36\\lib\\pprint.py', 'PYMODULE'),
+  ('doctest', 'C:\\Python36\\lib\\doctest.py', 'PYMODULE'),
+  ('unittest', 'C:\\Python36\\lib\\unittest\\__init__.py', 'PYMODULE'),
+  ('unittest.signals', 'C:\\Python36\\lib\\unittest\\signals.py', 'PYMODULE'),
+  ('unittest.main', 'C:\\Python36\\lib\\unittest\\main.py', 'PYMODULE'),
+  ('unittest.runner', 'C:\\Python36\\lib\\unittest\\runner.py', 'PYMODULE'),
+  ('unittest.loader', 'C:\\Python36\\lib\\unittest\\loader.py', 'PYMODULE'),
+  ('unittest.suite', 'C:\\Python36\\lib\\unittest\\suite.py', 'PYMODULE'),
+  ('unittest.case', 'C:\\Python36\\lib\\unittest\\case.py', 'PYMODULE'),
+  ('logging', 'C:\\Python36\\lib\\logging\\__init__.py', 'PYMODULE'),
+  ('unittest.result', 'C:\\Python36\\lib\\unittest\\result.py', 'PYMODULE'),
+  ('unittest.util', 'C:\\Python36\\lib\\unittest\\util.py', 'PYMODULE'),
+  ('pdb', 'C:\\Python36\\lib\\pdb.py', 'PYMODULE'),
+  ('pydoc', 'C:\\Python36\\lib\\pydoc.py', 'PYMODULE'),
+  ('webbrowser', 'C:\\Python36\\lib\\webbrowser.py', 'PYMODULE'),
+  ('socket', 'C:\\Python36\\lib\\socket.py', 'PYMODULE'),
+  ('shutil', 'C:\\Python36\\lib\\shutil.py', 'PYMODULE'),
+  ('zipfile', 'C:\\Python36\\lib\\zipfile.py', 'PYMODULE'),
+  ('py_compile', 'C:\\Python36\\lib\\py_compile.py', 'PYMODULE'),
+  ('tarfile', 'C:\\Python36\\lib\\tarfile.py', 'PYMODULE'),
+  ('gzip', 'C:\\Python36\\lib\\gzip.py', 'PYMODULE'),
+  ('lzma', 'C:\\Python36\\lib\\lzma.py', 'PYMODULE'),
+  ('email.message', 'C:\\Python36\\lib\\email\\message.py', 'PYMODULE'),
+  ('email.policy', 'C:\\Python36\\lib\\email\\policy.py', 'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime', 'C:\\Python36\\lib\\email\\quoprimime.py', 'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib', 'C:\\Python36\\lib\\urllib\\__init__.py', 'PYMODULE'),
+  ('email.iterators', 'C:\\Python36\\lib\\email\\iterators.py', 'PYMODULE'),
+  ('email.generator', 'C:\\Python36\\lib\\email\\generator.py', 'PYMODULE'),
+  ('random', 'C:\\Python36\\lib\\random.py', 'PYMODULE'),
+  ('bisect', 'C:\\Python36\\lib\\bisect.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Python36\\lib\\hashlib.py', 'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset', 'C:\\Python36\\lib\\email\\charset.py', 'PYMODULE'),
+  ('email.encoders', 'C:\\Python36\\lib\\email\\encoders.py', 'PYMODULE'),
+  ('email.base64mime', 'C:\\Python36\\lib\\email\\base64mime.py', 'PYMODULE'),
+  ('email._policybase', 'C:\\Python36\\lib\\email\\_policybase.py', 'PYMODULE'),
+  ('email.header', 'C:\\Python36\\lib\\email\\header.py', 'PYMODULE'),
+  ('email.errors', 'C:\\Python36\\lib\\email\\errors.py', 'PYMODULE'),
+  ('email.utils', 'C:\\Python36\\lib\\email\\utils.py', 'PYMODULE'),
+  ('email._parseaddr', 'C:\\Python36\\lib\\email\\_parseaddr.py', 'PYMODULE'),
+  ('email', 'C:\\Python36\\lib\\email\\__init__.py', 'PYMODULE'),
+  ('email.parser', 'C:\\Python36\\lib\\email\\parser.py', 'PYMODULE'),
+  ('email.feedparser', 'C:\\Python36\\lib\\email\\feedparser.py', 'PYMODULE'),
+  ('uu', 'C:\\Python36\\lib\\uu.py', 'PYMODULE'),
+  ('optparse', 'C:\\Python36\\lib\\optparse.py', 'PYMODULE'),
+  ('http.server', 'C:\\Python36\\lib\\http\\server.py', 'PYMODULE'),
+  ('http', 'C:\\Python36\\lib\\http\\__init__.py', 'PYMODULE'),
+  ('socketserver', 'C:\\Python36\\lib\\socketserver.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\Python36\\lib\\mimetypes.py', 'PYMODULE'),
+  ('http.client', 'C:\\Python36\\lib\\http\\client.py', 'PYMODULE'),
+  ('ssl', 'C:\\Python36\\lib\\ssl.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\Python36\\lib\\ipaddress.py', 'PYMODULE'),
+  ('html', 'C:\\Python36\\lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities', 'C:\\Python36\\lib\\html\\entities.py', 'PYMODULE'),
+  ('pydoc_data.topics', 'C:\\Python36\\lib\\pydoc_data\\topics.py', 'PYMODULE'),
+  ('pydoc_data', 'C:\\Python36\\lib\\pydoc_data\\__init__.py', 'PYMODULE'),
+  ('tty', 'C:\\Python36\\lib\\tty.py', 'PYMODULE'),
+  ('tempfile', 'C:\\Python36\\lib\\tempfile.py', 'PYMODULE'),
+  ('urllib.parse', 'C:\\Python36\\lib\\urllib\\parse.py', 'PYMODULE'),
+  ('platform', 'C:\\Python36\\lib\\platform.py', 'PYMODULE'),
+  ('plistlib', 'C:\\Python36\\lib\\plistlib.py', 'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers', 'C:\\Python36\\lib\\xml\\parsers\\__init__.py', 'PYMODULE'),
+  ('xml', 'C:\\Python36\\lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils', 'C:\\Python36\\lib\\xml\\sax\\saxutils.py', 'PYMODULE'),
+  ('urllib.request', 'C:\\Python36\\lib\\urllib\\request.py', 'PYMODULE'),
+  ('getpass', 'C:\\Python36\\lib\\getpass.py', 'PYMODULE'),
+  ('nturl2path', 'C:\\Python36\\lib\\nturl2path.py', 'PYMODULE'),
+  ('ftplib', 'C:\\Python36\\lib\\ftplib.py', 'PYMODULE'),
+  ('netrc', 'C:\\Python36\\lib\\netrc.py', 'PYMODULE'),
+  ('http.cookiejar', 'C:\\Python36\\lib\\http\\cookiejar.py', 'PYMODULE'),
+  ('urllib.response', 'C:\\Python36\\lib\\urllib\\response.py', 'PYMODULE'),
+  ('urllib.error', 'C:\\Python36\\lib\\urllib\\error.py', 'PYMODULE'),
+  ('xml.sax', 'C:\\Python36\\lib\\xml\\sax\\__init__.py', 'PYMODULE'),
+  ('xml.sax.handler', 'C:\\Python36\\lib\\xml\\sax\\handler.py', 'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('shlex', 'C:\\Python36\\lib\\shlex.py', 'PYMODULE'),
+  ('glob', 'C:\\Python36\\lib\\glob.py', 'PYMODULE'),
+  ('code', 'C:\\Python36\\lib\\code.py', 'PYMODULE'),
+  ('codeop', 'C:\\Python36\\lib\\codeop.py', 'PYMODULE'),
+  ('bdb', 'C:\\Python36\\lib\\bdb.py', 'PYMODULE'),
+  ('cmd', 'C:\\Python36\\lib\\cmd.py', 'PYMODULE'),
+  ('difflib', 'C:\\Python36\\lib\\difflib.py', 'PYMODULE'),
+  ('__future__', 'C:\\Python36\\lib\\__future__.py', 'PYMODULE'),
+  ('_compat_pickle', 'C:\\Python36\\lib\\_compat_pickle.py', 'PYMODULE'),
+  ('fnmatch', 'C:\\Python36\\lib\\fnmatch.py', 'PYMODULE'),
+  ('phonenumbers.carrier',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\carrier.py',
+   'PYMODULE'),
+  ('phonenumbers.carrierdata',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\carrierdata\\__init__.py',
+   'PYMODULE'),
+  ('phonenumbers.carrierdata.data2',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\carrierdata\\data2.py',
+   'PYMODULE'),
+  ('phonenumbers.carrierdata.data1',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\carrierdata\\data1.py',
+   'PYMODULE'),
+  ('phonenumbers.carrierdata.data0',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\carrierdata\\data0.py',
+   'PYMODULE'),
+  ('phonenumbers.prefix',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\prefix.py',
+   'PYMODULE'),
+  ('phonenumbers.phonenumberutil',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\phonenumberutil.py',
+   'PYMODULE'),
+  ('phonenumbers.data',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\__init__.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_995',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_995.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_972',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_972.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_971',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_971.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_95',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_95.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_94',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_94.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_91',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_91.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_90',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_90.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_856',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_856.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_855',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_855.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_84',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_84.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_81',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_81.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_7',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_7.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_679',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_679.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_676',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_676.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_675',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_675.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_66',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_66.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_64',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_64.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_62',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_62.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_61',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_61.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_595',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_595.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_58',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_58.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_55',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_55.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_54',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_54.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_52',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_52.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_506',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_506.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_505',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_505.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_49',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_49.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_44',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_44.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_43',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_43.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_39',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_39.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_385',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_385.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_381',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_381.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_380',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_380.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_373',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_373.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_372',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_372.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_36',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_36.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_359',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_359.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_358',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_358.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_352',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_352.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_351',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_351.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_350',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_350.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_34',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_34.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_31',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_31.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_30',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_30.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_27',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_27.py',
+   'PYMODULE'),
+  ('phonenumbers.data.alt_format_255',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\alt_format_255.py',
+   'PYMODULE'),
+  ('phonenumbers.phonemetadata',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\phonemetadata.py',
+   'PYMODULE'),
+  ('phonenumbers.phonenumber',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\phonenumber.py',
+   'PYMODULE'),
+  ('phonenumbers.unicode_util',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\unicode_util.py',
+   'PYMODULE'),
+  ('phonenumbers.re_util',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\re_util.py',
+   'PYMODULE'),
+  ('phonenumbers.util',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\util.py',
+   'PYMODULE'),
+  ('phonenumbers.geocoder',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geocoder.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.locale',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\locale.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\__init__.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data28',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data28.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data27',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data27.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data26',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data26.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data25',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data25.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data24',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data24.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data23',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data23.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data22',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data22.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data21',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data21.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data20',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data20.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data19',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data19.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data18',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data18.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data17',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data17.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data16',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data16.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data15',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data15.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data14',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data14.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data13',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data13.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data12',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data12.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data11',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data11.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data10',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data10.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data9',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data9.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data8',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data8.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data7',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data7.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data6',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data6.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data5',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data5.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data4',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data4.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data3',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data3.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data2',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data2.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data1',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data1.py',
+   'PYMODULE'),
+  ('phonenumbers.geodata.data0',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\geodata\\data0.py',
+   'PYMODULE'),
+  ('phonenumbers',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\__init__.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NZ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_YE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_YE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ES',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ES.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TJ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KP.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NF.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PT.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MP.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_EG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_EG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NI.py',
+   'PYMODULE'),
+  ('phonenumbers.tzdata',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\tzdata\\__init__.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GU.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PY.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LY.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LI.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_YE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_YE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_US',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_US.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ME',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ME.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_RW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_RW.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_IO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_IO.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MY.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SX',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SX.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BT.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_FI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_FI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_FM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_FM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_IM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_IM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_DK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_DK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TZ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MX',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MX.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GP.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BF.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_VC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_VC.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ES',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ES.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_VG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_VG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SJ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BD.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_VA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_VA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TV.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BB',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BB.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AU.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SK.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MH.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BY.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ER',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ER.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CY.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GB',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GB.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_IL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_IL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GD.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\__init__.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_FK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_FK.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_EC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_EC.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AX',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AX.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CD.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KN.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SH.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_VN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_VN.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CI.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NU.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MX',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MX.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_IE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_IE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MQ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MQ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MK.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LB',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LB.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_878',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_878.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PH.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MW.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CF.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BW.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GF.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ML',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ML.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_VA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_VA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SI.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GN.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_FJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_FJ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_EG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_EG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MP.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_FJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_FJ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_FR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_FR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AD.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MC.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SV.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_IQ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_IQ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ZM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ZM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ZW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ZW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_VI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_VI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BH.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_EH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_EH.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CH.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_UG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_UG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NF.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AZ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ZA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ZA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SY.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BB',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BB.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KR.py',
+   'PYMODULE'),
+  ('phonenumbers.tzdata.data0',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\tzdata\\data0.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KW.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NC.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_JO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_JO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_FR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_FR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_888',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_888.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_FO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_FO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_RS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_RS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SO.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BQ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BQ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_HU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_HU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_QA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_QA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TH.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TZ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AF.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_HU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_HU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_YT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_YT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PH.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CH.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_DO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_DO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AT.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SZ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_UA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_UA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BY.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ZA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ZA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SJ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_JM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_JM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KY.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CU.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SH.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MV.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MQ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MQ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BS.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_HR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_HR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_881',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_881.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LY.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MF.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AC.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GL.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ER',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ER.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PK.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_VU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_VU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_JO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_JO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LK.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NP.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CO.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BT.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_808',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_808.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NL.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ID',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ID.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_WF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_WF.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LB',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LB.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_DZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_DZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BO.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GF.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_HK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_HK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_XK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_XK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_IR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_IR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_FK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_FK.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_IS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_IS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_RE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_RE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SB',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SB.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_WF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_WF.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LU.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KZ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_EE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_EE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_JE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_JE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BJ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SD.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KY.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_IT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_IT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_RW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_RW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BD.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ID',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ID.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BF.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SO.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TV.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_RO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_RO.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CX',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CX.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LV.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_IT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_IT.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_UY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_UY.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_DK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_DK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PW.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CC.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_UZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_UZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MH.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CV.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_RE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_RE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_WS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_WS.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_XK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_XK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_DJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_DJ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MD.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GT.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_UG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_UG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_IQ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_IQ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BI.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_VU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_VU.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_VE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_VE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_EE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_EE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_HK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_HK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SB',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SB.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AD.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KH.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CV.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ET',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ET.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LS.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BH.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GI.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_HT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_HT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_FO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_FO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_YT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_YT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_IN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_IN.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_OM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_OM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BL.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ST',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ST.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MV.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KI.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TD.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BQ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BQ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BJ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ET',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ET.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_VC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_VC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_RU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_RU.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PF.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TH.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_US',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_US.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PL.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_DZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_DZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SN.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_WS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_WS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_DE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_DE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_OM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_OM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GH.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AZ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NL.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PS.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MS.py',
+   'PYMODULE'),
+  ('phonenumbers.timezone',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\timezone.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SK.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_UY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_UY.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CY.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CN.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_UZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_UZ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GD.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_HN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_HN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MS.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MT.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ZW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ZW.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GP.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MZ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_UA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_UA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ST',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ST.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GY.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_DM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_DM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_VN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_VN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SL.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_QA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_QA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_DJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_DJ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_IM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_IM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_870',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_870.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MY.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_LU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_LU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_DM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_DM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_VE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_VE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ML',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ML.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_JM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_JM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_HT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_HT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AX',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AX.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_HN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_HN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CX',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CX.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SV.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SY.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_979',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_979.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CO.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_ME',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_ME.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_IS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_IS.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_ZM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_ZM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_VG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_VG.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GN.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_IE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_IE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_VI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_VI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CL.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MT',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MT.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_HR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_HR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_BO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_BO.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TK',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TK.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_AF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_AF.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_IR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_IR.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_JP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_JP.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_IL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_IL.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GQ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GQ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CI.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CF.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_882',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_882.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BZ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BZ.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_NC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_NC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MD.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NA.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_JP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_JP.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_FM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_FM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_883',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_883.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_DO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_DO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KP.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GH.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AM.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_JE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_JE.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KI.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PY.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CW.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_IN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_IN.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MF.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_KH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_KH.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PW',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PW.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_DE',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_DE.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TD.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_RS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_RS.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SS',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SS.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MR.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_KN',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_KN.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_PF',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_PF.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GY',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GY.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_EC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_EC.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_AI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_AI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_MM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_MM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_800',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_800.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_TJ',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_TJ.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_EH',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_EH.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_RU',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_RU.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_BM',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_BM.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_RO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_RO.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_NP',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_NP.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_FI',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_FI.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TA',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TA.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_SG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_SG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SX',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SX.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_CD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_CD.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_PG',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_PG.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_GB',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_GB.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_LV',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_LV.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_SD',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_SD.py',
+   'PYMODULE'),
+  ('phonenumbers.data.region_TO',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\data\\region_TO.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_MC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_MC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CC',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CC.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_GL',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_GL.py',
+   'PYMODULE'),
+  ('phonenumbers.shortdata.region_CR',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortdata\\region_CR.py',
+   'PYMODULE'),
+  ('phonenumbers.phonenumbermatcher',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\phonenumbermatcher.py',
+   'PYMODULE'),
+  ('phonenumbers.shortnumberinfo',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\shortnumberinfo.py',
+   'PYMODULE'),
+  ('phonenumbers.asyoutypeformatter',
+   'c:\\users\\daniel '
+   'amorim\\pycharmprojects\\phonenumber\\venv\\lib\\site-packages\\phonenumbers\\asyoutypeformatter.py',
+   'PYMODULE')])
